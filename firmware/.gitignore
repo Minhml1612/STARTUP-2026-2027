@@ -1,0 +1,9 @@
+# Build outputs
+.pio/
+build/
+*.bin
+*.elf
+*.hex
+*.o
+*.obj
+.DS_Store
