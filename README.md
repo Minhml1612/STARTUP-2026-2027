@@ -5,4 +5,4 @@
   + Nút cảm ứng TTP223 (làm nút wake): https://vn.shp.ee/mf5uxw1e
   + Công tắc gạt 5mm: https://s.shopee.vn/5q6fPt8M1R
   + Pin polymer 10000mah chân jst 2.0: 
-  + Jack Type C female 4pin: https://s.shopee.vn/903hBiiUQm
+  + Jack Type C female 4pin: https://vn.shp.ee/EWsXiLnR https://s.shopee.vn/903hBiiUQm
