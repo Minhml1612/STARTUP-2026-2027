@@ -4,5 +4,5 @@
   + Bo ESP32-S3 all in one 2.8 inches: https://s.shopee.vn/4fui1g65qI
   + Nút cảm ứng TTP223 (làm nút wake): https://vn.shp.ee/mf5uxw1e
   + Công tắc gạt 5mm: https://s.shopee.vn/5q6fPt8M1R
-  + Pin polymer 10000mah chân jst 2.0: 
-  + Jack Type C female 4pin: https://vn.shp.ee/EWsXiLnR https://s.shopee.vn/903hBiiUQm
+  + Pin polymer 10000mah chân jst 2.0: https://s.shopee.vn/903hBiiUQm
+  + Jack Type C female 4pin: https://vn.shp.ee/EWsXiLnR 
